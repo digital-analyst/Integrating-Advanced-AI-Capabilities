@@ -7,7 +7,6 @@ bukan data asli perusahaan).
 Kode tersedia dalam **dua format** dengan isi yang sama:
 - `latihan_notebook/` — **Jupyter Notebook (.ipynb), format utama untuk pelatihan.**
   Sudah berisi penjelasan tiap langkah, contoh output, dan grafik.
-- `latihan_python/` — script `.py` biasa, untuk yang tidak memakai Jupyter.
 
 ---
 
